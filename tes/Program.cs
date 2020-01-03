@@ -7,6 +7,8 @@ namespace tes
         static void Main()
         {
             Console.WriteLine("Hello World!");
+
+            double a, b, c;
         }
     }
 }
